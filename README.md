@@ -1,0 +1,2 @@
+# Multiple_Regression_Gene_Expression_Predictions
+The goal of the code below is to generate a simple regression model (that takes a single input to make a prediction) and compare its performance to a multiple regression model (that takes more than one input to make a prediction.) The models are built in the context of the input, gene expression of a gene familiy, and how it affects the output, effector gene expression. The goal is test this code with existing gene expression repositories such as the NIH Gene Expression Omnibus (GEO) repository.
